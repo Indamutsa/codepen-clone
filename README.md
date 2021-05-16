@@ -1,3 +1,7 @@
+This is a codepen clone
+Install dependencies by running npm install and npm start or yarn start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
